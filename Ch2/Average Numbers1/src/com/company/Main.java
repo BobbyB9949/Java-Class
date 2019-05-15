@@ -12,7 +12,7 @@ public class Main {
 	c = 12.3;
 	d = 42.0;
 	int average;
-	average = a+b+c+d%4;
+	average = a+b+c+d/4;
         System.out.println("The average is: ");
     }
 }
